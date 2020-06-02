@@ -1,0 +1,38 @@
+{
+  "name": "gatsby-plugin-fontawesome-css",
+  "version": "1.0.0",
+  "description": "Gatsby plugin that disables Font Awesome auto CSS insertion and instead inserts it at compile time.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jzabala/gatsby-plugin-fontawesome-css.git"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "fontawesome",
+    "font-awesome"
+  ],
+  "peerDependencies": {
+    "gatsby": "^2.0.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.0"
+  },
+  "author": "Johnny Zabala <jzabala.s@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.28",
+    "jest": "^26.0.1",
+    "prettier": "^2.0.5",
+    "react": "^16.13.1"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "testPathIgnorePatterns": [
+      "<rootDir>/example"
+    ]
+  }
+}
