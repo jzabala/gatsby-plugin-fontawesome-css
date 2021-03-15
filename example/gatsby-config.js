@@ -1,3 +1,10 @@
 module.exports = {
-  plugins: [`gatsby-plugin-fontawesome-css`],
+  siteMetadata: {
+    title: 'gatsby-plugin-fontawesome-css-example',
+  },
+  plugins: [
+    {
+      resolve: require.resolve(`../`),
+    },
+  ],
 }
