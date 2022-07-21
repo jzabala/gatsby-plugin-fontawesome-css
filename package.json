@@ -19,7 +19,7 @@
   ],
   "peerDependencies": {
     "gatsby": "^4.0.0",
-    "@fortawesome/fontawesome-svg-core": "^1.2.0"
+    "@fortawesome/fontawesome-svg-core": "^1.2.0 || ^6.1.0"
   },
   "author": "Johnny Zabala <jzabala.s@gmail.com>",
   "license": "MIT",
