@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-plugin-fontawesome-css",
-  "version": "1.2.0",
+  "name": "gatsby-plugin-fontawesome-css-2",
+  "version": "1.3.0",
   "description": "Gatsby plugin that disables Font Awesome auto CSS insertion and instead inserts it at compile time.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jzabala/gatsby-plugin-fontawesome-css.git"
+    "url": "https://github.com/ed-wright/gatsby-plugin-fontawesome-css.git"
   },
   "scripts": {
     "test": "jest",
@@ -21,7 +21,7 @@
     "gatsby": "^4.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.0 || ^6.0.0"
   },
-  "author": "Johnny Zabala <jzabala.s@gmail.com>",
+  "author": "Edward Wright <5090163+ed-wright@users.noreply.github.com>",
   "license": "MIT",
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.0 || ^6.0.0",
