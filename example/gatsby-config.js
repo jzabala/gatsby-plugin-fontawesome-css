@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'gatsby-plugin-fontawesome-css-example',
+    title: 'gatsby-plugin-fontawesome-example',
   },
   plugins: [
     {
