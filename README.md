@@ -1,4 +1,4 @@
-# gatsby-5-plugin-fontawesome-css
+# gatsby-plugin-fontawesome
 
 Disables [Font Awesome auto CSS insertion](https://fontawesome.com/how-to-use/javascript-api/setup/configuration#autoaddcss) and instead inserts it at compile time.
 
